@@ -1,17 +1,15 @@
 # Etude-de-marché
 Analyse exploratoire des données et analyse multidimensionnelle (K-means, CAH, PCA) 
 
-Notebook 1/2 - Préparation, nettoyage et analyse exploratoire des données
-Contexte
-La poule qui chante, une entreprise française d’agroalimentaire, souhaite se développer à l'international. Une première analyse des groupements de pays à cibler pour exporter des poulets est requise.
-
+La poule qui chante 🐓, une entreprise française d’agroalimentaire, souhaite se développer à l'international. 
+Une première analyse des groupements de pays à cibler pour exporter des poulets est requise.
 Une étude de marché plus approfondie sera menée ultérieurement.
 
 Source des données
 FAOSTAT : DisponibiliteAlimentaire_2017.csv, FAOSTAT_PIB.csv et Population_2000_2018 :
 World Bank open data : EoDB2017 The World bank.xlsx
 
-Choix des variables basé sur Les 6 critères d'une analyse PESTEL ; Politique, Économique, Légal, Sociologique, Environnemental et Technologique.
+Le choix des variables est basé sur les 6 critères d'une analyse PESTEL ; Politique, Économique, Légal, Sociologique, Environnemental et Technologique.
 9 Variables relatives à la volailles on été  séléctionnées :
 
 Economique :
