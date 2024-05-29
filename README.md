@@ -5,7 +5,8 @@ La poule qui chante 🐓, une entreprise française d’agroalimentaire, souhait
 Une première analyse des groupements de pays à cibler pour exporter des poulets est requise.
 Une étude de marché plus approfondie sera menée ultérieurement.
 
-Source des données
+Source des données:
+
 FAOSTAT : DisponibiliteAlimentaire_2017.csv, FAOSTAT_PIB.csv et Population_2000_2018
 
 World Bank open data : EoDB2017 The World bank.xlsx
