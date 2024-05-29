@@ -6,7 +6,7 @@ Une première analyse des groupements de pays à cibler pour exporter des poulet
 Une étude de marché plus approfondie sera menée ultérieurement.
 
 Source des données
-FAOSTAT : DisponibiliteAlimentaire_2017.csv, FAOSTAT_PIB.csv et Population_2000_2018 :
+FAOSTAT : DisponibiliteAlimentaire_2017.csv, FAOSTAT_PIB.csv et Population_2000_2018
 World Bank open data : EoDB2017 The World bank.xlsx
 
 Le choix des variables est basé sur les 6 critères d'une analyse PESTEL ; Politique, Économique, Légal, Sociologique, Environnemental et Technologique.
